@@ -1,0 +1,18 @@
+.pageNumber{
+    list-style-type: none;
+    text-align: center;
+    border: lightgray 2px solid;
+    border-radius: 3px;
+    display: inline;
+    margin-right: 10px;
+
+}
+
+.pageNumber:hover{
+    background-color: white;
+    color: #D7C8B6;
+}
+
+.currentNumber{
+    text-decoration: underline;
+}

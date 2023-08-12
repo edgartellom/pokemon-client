@@ -1,0 +1,65 @@
+{
+    "pokemons": [
+        {
+            "id": 1, 
+            "name": "bulbasaur",
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "speed": 45,
+            "height": 7,
+            "weight": 69,
+            "image": {
+                "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+                "detail": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif"
+            },
+            "types": [
+                {
+                    "name": "grass"
+                }, {
+                    "name": "poison"
+                }
+            ]
+        }, {
+            "id": 2,
+            "name": "ivysaur",
+            "hp": 60,
+            "attack": 62,
+            "defense": 63,
+            "speed": 60,
+            "height": 10,
+            "weight": 130,
+            "image": {
+                "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+                "detail": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/2.gif"
+            },
+            "types": [
+                {
+                    "name": "grass"
+                }, {
+                    "name": "poison"
+                }
+            ]
+        }, {
+            "id": 3,
+            "name": "venusaur",
+            "hp": 80,
+            "attack": 82,
+            "defense": 83,
+            "speed": 80,
+            "height": 20,
+            "weight": 1000,
+            "image": {
+                "home": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+                "detail": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif"
+            },
+            "types": [
+                {
+                    "name": "grass"
+                }, {
+                    "name": "poison"
+                }
+            ]
+        } 
+    ]
+}

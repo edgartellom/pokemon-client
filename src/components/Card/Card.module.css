@@ -1,0 +1,28 @@
+.pokeCard {
+    border-radius: 5px;
+    border-color: solid black 5px;
+    box-shadow: 3px 3px 3px 3px gray;
+}
+
+.pokeInfo {
+    text-transform: capitalize;
+    color: lightslategray;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.pokeType {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.pokeImage{
+    border-radius: 10px;
+}
+
+@media (max-width: 560px) {
+    .pokeImage {
+        width: 90%;
+        height: auto;
+    }
+}

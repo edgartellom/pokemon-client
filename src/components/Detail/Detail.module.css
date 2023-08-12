@@ -1,0 +1,18 @@
+.detailBg {
+    background-image: url("../../pictures/detailBackground.jpg");
+    background-position: top ;
+    background-size: cover;
+    height: 700px;
+    margin-top: -25px;
+}
+.pokeDetail {
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+
